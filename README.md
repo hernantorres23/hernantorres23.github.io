@@ -6,7 +6,7 @@ Accounting, Data Analysis, programming multiplatform.
 - SQL queries tune up
 - I have advanced skills in SQL, Excel(VBA), Access(VBA) and now seek the same in Python, studying for Machine Learning.
 - Data visualization in Power BI, Tableau, others in progress (Alteryx, Microstrategy)
-- Easy communication and logical abilities
+- Easy communication and logical abilities.
 - Innovative, detail-oriented, rigorous, proactive, and snappy to learn.
 - Customer interfacing abilities besides a high degree of integrity, always a positive attitude, and the ability to maintain absolute confidentiality
 - Hybrid profile perfect to work with agile methodologies (SCRUM) or as a software implementer serving as a communication bridge between IT and financial departments.
